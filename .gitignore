@@ -1,17 +1,2 @@
-# Byte-compiled files
-__pycache__/
-*.pyc
-
-# Virtual environment directories
-venv/
-.env/
-
-# IDE-specific files
-.vscode/
-.idea/
-
-# Logs
-*.log
-
-# OS-specific files
-.DS_Store
+# created by virtualenv automatically
+*
